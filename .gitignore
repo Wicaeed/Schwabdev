@@ -4,3 +4,5 @@ __pycache__/
 dist/
 schwabdev.egg-info/
 tokens.json
+/build
+/docs/examples/tests
